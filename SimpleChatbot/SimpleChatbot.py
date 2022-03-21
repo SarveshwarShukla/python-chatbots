@@ -1,4 +1,4 @@
-# Simple chatbot application using python
+# Simple chatbot application using python (not completed yet, in process)
 
 import numpy as np # used for numerical computations
 import nltk # library for natural language processing
